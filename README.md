@@ -1,0 +1,1 @@
+Dev environment for Wordpress using VSCode dev containers.
